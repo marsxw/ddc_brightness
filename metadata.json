@@ -1,0 +1,9 @@
+{
+    "name": "Screen Brightness Control",
+    "description": "Control external display brightness via ddcutil",
+    "uuid": "brightness-control@88huoxingwen.gmail.com",
+    "shell-version": [
+        "42"
+    ],
+    "version": 1
+}
