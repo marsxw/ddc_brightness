@@ -13,3 +13,6 @@
 ### Installing the extension
     gnome-extensions install --force brightness-control@88huoxingwen.gmail.com.zip
     gnome-extensions enable brightness-control@88huoxingwen.gmail.com
+
+### screenshot
+![screenshot](./image.png)
